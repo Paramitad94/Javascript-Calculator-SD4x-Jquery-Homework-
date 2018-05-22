@@ -19,7 +19,7 @@ Assemble a JavaScript application consisting of multiple functions
 
 Background
 
-We will provide you with the HTML that renders a simple calculator that looks like this:
+We will provide you with the HTML that renders a simple calculator.
 
 In this assignment, you do not need to modify the appearance of the calculator, you only need to implement the functionality of entering values and performing arithmetic operations using JavaScript in the web page and jQuery to access the HTML elements.
 
